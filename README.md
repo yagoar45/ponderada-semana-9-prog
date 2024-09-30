@@ -1,5 +1,7 @@
 # Ponderada Semana 9 - Programação
 
+* Essa ponderada tem como foco testar vários cenários dentro de uma aplicação utilizando K6.
+
 ## Etapa 1: criação da API básica para os testes:
 
 ```go
